@@ -1,0 +1,111 @@
+.form-register
+{
+    padding: 20px;
+    height: 100%;
+}
+.links
+{
+    display: flex;
+    justify-content: space-between;   
+}
+.links p {
+    margin: 0 10px; /* Ajusta el valor de margen según tus necesidades */
+  }
+.links p a
+{
+    color: blue;
+    text-decoration: none;
+}
+.links p a:hover
+{
+    text-decoration: underline;
+    
+}
+.contenedor
+{
+    display: flex;
+    margin-left: auto;
+    
+}
+.contenedor p
+{
+    margin: 0 10px;
+}
+main
+{
+    
+    text-align: center;
+    
+    
+}
+main p
+{
+    font-size: 100px;
+    margin-bottom: 10px;
+}
+main .Boogle
+{
+
+    width: 900px;
+    height: 40px;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 4px;
+    
+}
+footer
+{
+    display: flex;
+    margin-left: 450px;
+}
+footer .first
+{
+    
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid black;
+    box-shadow: 3px 1px 6px #000;
+    background-color: rgb(255, 255, 255);
+    transition: background-color 0.1s ease; 
+    
+   
+    
+}
+
+.first:hover
+{
+    
+    background-color: rgb(207, 207, 255);
+
+}
+
+
+.second-link
+{
+    display: flex;
+    
+    margin-left: 400px;
+    
+
+}
+.second-link p
+{
+    margin: 0 10px;
+    margin-top: 80px;
+    
+    
+    
+    
+}
+.new
+{
+    font-size: 20px;
+    margin-left: 1100px;
+    margin-top: -50px;
+    margin-bottom: 50px;
+
+}
+

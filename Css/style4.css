@@ -1,0 +1,36 @@
+body
+{
+    background-color: gold;
+    padding: 30px;
+    
+
+   
+}
+
+h1
+{
+    text-align: center;
+    font-size: 50px;
+}
+section
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
+   
+
+}
+.producto
+{
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.producto p
+{
+    width: 100px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.producto img
+{
+    border: 2px solid white;
+}
